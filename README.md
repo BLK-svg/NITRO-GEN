@@ -1,6 +1,5 @@
-# Nitro-gen 
+# Nitro-gen :
 
-* NitroGen 
 
 Nitro Gene est un outil qui génère aléatoirement des codes Nitro de Discord.
 
