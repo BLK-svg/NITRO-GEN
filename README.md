@@ -16,7 +16,5 @@ Nitro Gene est un outil qui génère aléatoirement des codes Nitro de Discord.
 
 # Installation : 
 ```
-* Ouvrez un terminal
-
-* Ouvrez le fichier nitro-gen.py
+* Ouvrez le fichier nitro-gen-start.bat
 ```
