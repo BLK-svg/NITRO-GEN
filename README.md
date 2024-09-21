@@ -22,3 +22,12 @@ Ou
 
 * Vous pouvez aussi lancez le fichier .bat
 ```
+
+# Plateformes :
+
+* Disponible sur ordinateur 💻
+
+* Pas disponible encore sur mobile (termux) ❌
+
+
+
